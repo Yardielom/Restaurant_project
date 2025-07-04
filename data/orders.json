@@ -1,0 +1,1184 @@
+[
+  {
+    "OrderId": 1,
+    "Dishes": [
+      {
+        "Name": "Fries",
+        "Price": 7,
+        "ImagePath": "Resources\\Images\\fries.jpg"
+      },
+      {
+        "Name": "smashburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      },
+      {
+        "Name": "Cheeseburger",
+        "Price": 14,
+        "ImagePath": "Resources\\Images\\cheeseburg.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Accepted",
+    "Total": 38.00,
+    "Username": "yl",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 2,
+    "Dishes": [
+      {
+        "Name": "smashburger",
+        "Price": 14,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      }
+    ],
+    "Status": "Delivered",
+    "Total": 14,
+    "Username": "yl1",
+    "Address": "Pickup"
+  },
+  {
+    "OrderId": 3,
+    "Dishes": [
+      {
+        "Name": "smashburger",
+        "Price": 14,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      }
+    ],
+    "Status": "Delivered",
+    "Total": 14,
+    "Username": "yl1",
+    "Address": "Pickup"
+  },
+  {
+    "OrderId": 4,
+    "Dishes": [
+      {
+        "Name": "smashburger",
+        "Price": 14,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Delivered",
+    "Total": 19.00,
+    "Username": "yl1",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 5,
+    "Dishes": [
+      {
+        "Name": "smashburger",
+        "Price": 14,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Delivered",
+    "Total": 19.00,
+    "Username": "yl1",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 6,
+    "Dishes": [
+      {
+        "Name": "smashburger",
+        "Price": 14,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      },
+      {
+        "Name": "cheeseburger",
+        "Price": 14,
+        "ImagePath": "Resources\\Images\\cheeseburg.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Delivered",
+    "Total": 33.00,
+    "Username": "yl1",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 7,
+    "Dishes": [
+      {
+        "Name": "smashburger",
+        "Price": 14,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Delivered",
+    "Total": 19.00,
+    "Username": "yl1",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 8,
+    "Dishes": [
+      {
+        "Name": "smashburger",
+        "Price": 14,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Delivered",
+    "Total": 19.00,
+    "Username": "yl1",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 9,
+    "Dishes": [
+      {
+        "Name": "smashburger",
+        "Price": 14,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      },
+      {
+        "Name": "cheeseburger",
+        "Price": 14,
+        "ImagePath": "Resources\\Images\\cheeseburg.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Delivered",
+    "Total": 33.00,
+    "Username": "yl1",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 10,
+    "Dishes": [
+      {
+        "Name": "cheeseburger",
+        "Price": 14,
+        "ImagePath": "Resources\\Images\\cheeseburg.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Delivered",
+    "Total": 19.00,
+    "Username": "yl1",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 1,
+    "Dishes": [
+      {
+        "Name": "Fries",
+        "Price": 7,
+        "ImagePath": "Resources\\Images\\fries.jpg"
+      },
+      {
+        "Name": "smashburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      },
+      {
+        "Name": "Cheeseburger",
+        "Price": 14,
+        "ImagePath": "Resources\\Images\\cheeseburg.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Received",
+    "Total": 38.00,
+    "Username": "yl",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 1,
+    "Dishes": [
+      {
+        "Name": "Fries",
+        "Price": 7,
+        "ImagePath": "Resources\\Images\\fries.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Received",
+    "Total": 12.00,
+    "Username": "yl",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 11,
+    "Dishes": [
+      {
+        "Name": "Cheeseburger",
+        "Price": 14,
+        "ImagePath": "Resources\\Images\\cheeseburg.jpg"
+      },
+      {
+        "Name": "Animal Style Fries",
+        "Price": 10,
+        "ImagePath": "Resources\\Images\\animal.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Delivered",
+    "Total": 29.00,
+    "Username": "yl",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 12,
+    "Dishes": [
+      {
+        "Name": "Cheeseburger",
+        "Price": 14,
+        "ImagePath": "Resources\\Images\\cheeseburg.jpg"
+      },
+      {
+        "Name": "jalapenoBurger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\jalapeno.jpg"
+      },
+      {
+        "Name": "Fries",
+        "Price": 7,
+        "ImagePath": "Resources\\Images\\fries.jpg"
+      },
+      {
+        "Name": "Hot Dog (American Style)",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\hot.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Delivered",
+    "Total": 50.00,
+    "Username": "yl1",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 1,
+    "Dishes": [
+      {
+        "Name": "smashburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      },
+      {
+        "Name": "Fries",
+        "Price": 7,
+        "ImagePath": "Resources\\Images\\fries.jpg"
+      },
+      {
+        "Name": "Fries",
+        "Price": 7,
+        "ImagePath": "Resources\\Images\\fries.jpg"
+      },
+      {
+        "Name": "smashburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      },
+      {
+        "Name": "Cheeseburger",
+        "Price": 14,
+        "ImagePath": "Resources\\Images\\cheeseburg.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Received",
+    "Total": 57.00,
+    "Username": "yl",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 13,
+    "Dishes": [
+      {
+        "Name": "Cheeseburger",
+        "Price": 14,
+        "ImagePath": "Resources\\Images\\cheeseburg.jpg"
+      },
+      {
+        "Name": "smashburger",
+        "Price": 12,
+        "ImagePath": null
+      },
+      {
+        "Name": "smashburger",
+        "Price": 12,
+        "ImagePath": null
+      },
+      {
+        "Name": "Animal Style Fries",
+        "Price": 10,
+        "ImagePath": "Resources\\Images\\animal.jpg"
+      },
+      {
+        "Name": "Hot Dog (American Style)",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\hot.jpg"
+      },
+      {
+        "Name": "smashburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      },
+      {
+        "Name": "jalapenoBurger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\jalapeno.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Delivered",
+    "Total": 89.00,
+    "Username": "yl1",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 14,
+    "Dishes": [
+      {
+        "Name": "smashburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Delivered",
+    "Total": 17.00,
+    "Username": "yl1",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 15,
+    "Dishes": [
+      {
+        "Name": "smashburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Delivered",
+    "Total": 17.00,
+    "Username": "yl1",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 1,
+    "Dishes": [
+      {
+        "Name": "Hot Dog (European Style)",
+        "Price": 5,
+        "ImagePath": "Resources\\Images\\hd_morlinska.png"
+      },
+      {
+        "Name": "House Fries",
+        "Price": 6,
+        "ImagePath": "Resources\\Images\\b632ff37-3758-4bed-8736-0a7a992bc207.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Received",
+    "Total": 16.00,
+    "Username": "yl",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 1,
+    "Dishes": [
+      {
+        "Name": "Hot Dog (American Style)",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\hot.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Received",
+    "Total": 17.00,
+    "Username": "yl",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 1,
+    "Dishes": [
+      {
+        "Name": "jalapenoBurger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\jalapeno.jpg"
+      },
+      {
+        "Name": "Cheeseburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\ccfa3b86-7ccb-46a9-97da-93cdb402d8c5.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Received",
+    "Total": 29.00,
+    "Username": "yl",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 1,
+    "Dishes": [
+      {
+        "Name": "Cheeseburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\ccfa3b86-7ccb-46a9-97da-93cdb402d8c5.jpg"
+      },
+      {
+        "Name": "jalapenoBurger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\jalapeno.jpg"
+      },
+      {
+        "Name": "smashburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      },
+      {
+        "Name": "Animal Style Fries",
+        "Price": 10,
+        "ImagePath": "Resources\\Images\\animal.jpg"
+      },
+      {
+        "Name": "Hot Dog (American Style)",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\hot.jpg"
+      },
+      {
+        "Name": "House Fries",
+        "Price": 6,
+        "ImagePath": "Resources\\Images\\b632ff37-3758-4bed-8736-0a7a992bc207.jpg"
+      },
+      {
+        "Name": "House Fries",
+        "Price": 6,
+        "ImagePath": "Resources\\Images\\b632ff37-3758-4bed-8736-0a7a992bc207.jpg"
+      },
+      {
+        "Name": "smashburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Received",
+    "Total": 87.00,
+    "Username": "yl",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 16,
+    "Dishes": [
+      {
+        "Name": "House Fries",
+        "Price": 6,
+        "ImagePath": "Resources\\Images\\b632ff37-3758-4bed-8736-0a7a992bc207.jpg"
+      },
+      {
+        "Name": "smashburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Delivered",
+    "Total": 23.00,
+    "Username": "yl1",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 1,
+    "Dishes": [
+      {
+        "Name": "House Fries",
+        "Price": 6,
+        "ImagePath": "Resources\\Images\\b632ff37-3758-4bed-8736-0a7a992bc207.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Received",
+    "Total": 11.00,
+    "Username": "yl",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 1,
+    "Dishes": [
+      {
+        "Name": "House Fries",
+        "Price": 6,
+        "ImagePath": "Resources\\Images\\b632ff37-3758-4bed-8736-0a7a992bc207.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Received",
+    "Total": 11.00,
+    "Username": "yl",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 1,
+    "Dishes": [
+      {
+        "Name": "House Fries",
+        "Price": 6,
+        "ImagePath": "Resources\\Images\\b632ff37-3758-4bed-8736-0a7a992bc207.jpg"
+      },
+      {
+        "Name": "smashburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      }
+    ],
+    "Status": "Received",
+    "Total": 18,
+    "Username": "yl",
+    "Address": "Pickup"
+  },
+  {
+    "OrderId": 17,
+    "Dishes": [
+      {
+        "Name": "House Fries",
+        "Price": 6,
+        "ImagePath": "Resources\\Images\\b632ff37-3758-4bed-8736-0a7a992bc207.jpg"
+      },
+      {
+        "Name": "smashburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Delivered",
+    "Total": 23.00,
+    "Username": "yl1",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 18,
+    "Dishes": [
+      {
+        "Name": "House Fries",
+        "Price": 6,
+        "ImagePath": "Resources\\Images\\b632ff37-3758-4bed-8736-0a7a992bc207.jpg"
+      }
+    ],
+    "Status": "Delivered",
+    "Total": 6,
+    "Username": "yl1",
+    "Address": "Pickup"
+  },
+  {
+    "OrderId": 1,
+    "Dishes": [
+      {
+        "Name": "House Fries",
+        "Price": 6,
+        "ImagePath": "Resources\\Images\\b632ff37-3758-4bed-8736-0a7a992bc207.jpg"
+      }
+    ],
+    "Status": "Received",
+    "Total": 6,
+    "Username": "yl",
+    "Address": "Pickup"
+  },
+  {
+    "OrderId": 19,
+    "Dishes": [
+      {
+        "Name": "House Fries",
+        "Price": 6,
+        "ImagePath": "Resources\\Images\\b632ff37-3758-4bed-8736-0a7a992bc207.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Delivered",
+    "Total": 11.00,
+    "Username": "yl1",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 1,
+    "Dishes": [
+      {
+        "Name": "House Fries",
+        "Price": 6,
+        "ImagePath": "Resources\\Images\\b632ff37-3758-4bed-8736-0a7a992bc207.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Received",
+    "Total": 11.00,
+    "Username": "yl",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 1,
+    "Dishes": [
+      {
+        "Name": "House Fries",
+        "Price": 6,
+        "ImagePath": "Resources\\Images\\b632ff37-3758-4bed-8736-0a7a992bc207.jpg"
+      },
+      {
+        "Name": "smashburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      },
+      {
+        "Name": "Hot Dog (American Style)",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\hot.jpg"
+      }
+    ],
+    "Status": "Received",
+    "Total": 30,
+    "Username": "yl",
+    "Address": "Pickup"
+  },
+  {
+    "OrderId": 20,
+    "Dishes": [
+      {
+        "Name": "Cheeseburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\ccfa3b86-7ccb-46a9-97da-93cdb402d8c5.jpg"
+      },
+      {
+        "Name": "Cheeseburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\ccfa3b86-7ccb-46a9-97da-93cdb402d8c5.jpg"
+      },
+      {
+        "Name": "smashburger",
+        "Price": 12,
+        "ImagePath": null
+      },
+      {
+        "Name": "smashburger",
+        "Price": 12,
+        "ImagePath": null
+      },
+      {
+        "Name": "House Fries",
+        "Price": 6,
+        "ImagePath": "Resources\\Images\\b632ff37-3758-4bed-8736-0a7a992bc207.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Delivered",
+    "Total": 59.00,
+    "Username": "yl1",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 1,
+    "Dishes": [
+      {
+        "Name": "House Fries",
+        "Price": 6,
+        "ImagePath": "Resources\\Images\\b632ff37-3758-4bed-8736-0a7a992bc207.jpg"
+      },
+      {
+        "Name": "smashburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      },
+      {
+        "Name": "Cheeseburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\ccfa3b86-7ccb-46a9-97da-93cdb402d8c5.jpg"
+      },
+      {
+        "Name": "Animal Style Fries",
+        "Price": 10,
+        "ImagePath": "Resources\\Images\\animal.jpg"
+      },
+      {
+        "Name": "Animal Style Fries",
+        "Price": 10,
+        "ImagePath": "Resources\\Images\\animal.jpg"
+      },
+      {
+        "Name": "Animal Style Fries",
+        "Price": 10,
+        "ImagePath": "Resources\\Images\\animal.jpg"
+      },
+      {
+        "Name": "Animal Style Fries",
+        "Price": 10,
+        "ImagePath": "Resources\\Images\\animal.jpg"
+      },
+      {
+        "Name": "Animal Style Fries",
+        "Price": 10,
+        "ImagePath": "Resources\\Images\\animal.jpg"
+      },
+      {
+        "Name": "Animal Style Fries",
+        "Price": 10,
+        "ImagePath": "Resources\\Images\\animal.jpg"
+      },
+      {
+        "Name": "Animal Style Fries",
+        "Price": 10,
+        "ImagePath": "Resources\\Images\\animal.jpg"
+      },
+      {
+        "Name": "Animal Style Fries",
+        "Price": 10,
+        "ImagePath": "Resources\\Images\\animal.jpg"
+      },
+      {
+        "Name": "Animal Style Fries",
+        "Price": 10,
+        "ImagePath": "Resources\\Images\\animal.jpg"
+      },
+      {
+        "Name": "Animal Style Fries",
+        "Price": 10,
+        "ImagePath": "Resources\\Images\\animal.jpg"
+      },
+      {
+        "Name": "Animal Style Fries",
+        "Price": 10,
+        "ImagePath": "Resources\\Images\\animal.jpg"
+      },
+      {
+        "Name": "Animal Style Fries",
+        "Price": 10,
+        "ImagePath": "Resources\\Images\\animal.jpg"
+      },
+      {
+        "Name": "Animal Style Fries",
+        "Price": 10,
+        "ImagePath": "Resources\\Images\\animal.jpg"
+      },
+      {
+        "Name": "Animal Style Fries",
+        "Price": 10,
+        "ImagePath": "Resources\\Images\\animal.jpg"
+      },
+      {
+        "Name": "Animal Style Fries",
+        "Price": 10,
+        "ImagePath": "Resources\\Images\\animal.jpg"
+      },
+      {
+        "Name": "Animal Style Fries",
+        "Price": 10,
+        "ImagePath": "Resources\\Images\\animal.jpg"
+      },
+      {
+        "Name": "Animal Style Fries",
+        "Price": 10,
+        "ImagePath": "Resources\\Images\\animal.jpg"
+      },
+      {
+        "Name": "Animal Style Fries",
+        "Price": 10,
+        "ImagePath": "Resources\\Images\\animal.jpg"
+      },
+      {
+        "Name": "Animal Style Fries",
+        "Price": 10,
+        "ImagePath": "Resources\\Images\\animal.jpg"
+      },
+      {
+        "Name": "Animal Style Fries",
+        "Price": 10,
+        "ImagePath": "Resources\\Images\\animal.jpg"
+      },
+      {
+        "Name": "Animal Style Fries",
+        "Price": 10,
+        "ImagePath": "Resources\\Images\\animal.jpg"
+      },
+      {
+        "Name": "Animal Style Fries",
+        "Price": 10,
+        "ImagePath": "Resources\\Images\\animal.jpg"
+      },
+      {
+        "Name": "Hot Dog (American Style)",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\hot.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Received",
+    "Total": 267.00,
+    "Username": "yl",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 1,
+    "Dishes": [
+      {
+        "Name": "House Fries",
+        "Price": 6,
+        "ImagePath": "Resources\\Images\\b632ff37-3758-4bed-8736-0a7a992bc207.jpg"
+      },
+      {
+        "Name": "smashburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      },
+      {
+        "Name": "Cheeseburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\ccfa3b86-7ccb-46a9-97da-93cdb402d8c5.jpg"
+      }
+    ],
+    "Status": "Received",
+    "Total": 30,
+    "Username": "yl",
+    "Address": "Pickup"
+  },
+  {
+    "OrderId": 21,
+    "Dishes": [
+      {
+        "Name": "House Fries",
+        "Price": 6,
+        "ImagePath": "Resources\\Images\\b632ff37-3758-4bed-8736-0a7a992bc207.jpg"
+      },
+      {
+        "Name": "Cheeseburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\ccfa3b86-7ccb-46a9-97da-93cdb402d8c5.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Delivered",
+    "Total": 23.00,
+    "Username": "yl1",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 1,
+    "Dishes": [
+      {
+        "Name": "House Fries",
+        "Price": 6,
+        "ImagePath": "Resources\\Images\\b632ff37-3758-4bed-8736-0a7a992bc207.jpg"
+      },
+      {
+        "Name": "smashburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      },
+      {
+        "Name": "Cheeseburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\ccfa3b86-7ccb-46a9-97da-93cdb402d8c5.jpg"
+      },
+      {
+        "Name": "Hot Dog (American Style)",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\hot.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Received",
+    "Total": 47.00,
+    "Username": "yl",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 22,
+    "Dishes": [
+      {
+        "Name": "smashburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      },
+      {
+        "Name": "Animal Style Fries",
+        "Price": 10,
+        "ImagePath": "Resources\\Images\\animal.jpg"
+      },
+      {
+        "Name": "Hot Dog (American Style)",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\hot.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Delivered",
+    "Total": 39.00,
+    "Username": "yl1",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 1,
+    "Dishes": [
+      {
+        "Name": "smashburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      },
+      {
+        "Name": "Animal Style Fries",
+        "Price": 10,
+        "ImagePath": "Resources\\Images\\animal.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Received",
+    "Total": 27.00,
+    "Username": "yl",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 23,
+    "Dishes": [
+      {
+        "Name": "smashburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      },
+      {
+        "Name": "House Fries",
+        "Price": 6,
+        "ImagePath": "Resources\\Images\\b632ff37-3758-4bed-8736-0a7a992bc207.jpg"
+      },
+      {
+        "Name": "Cheeseburger",
+        "Price": 12,
+        "ImagePath": null
+      },
+      {
+        "Name": "Cheeseburger",
+        "Price": 12,
+        "ImagePath": null
+      },
+      {
+        "Name": "smashburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Delivered",
+    "Total": 59.00,
+    "Username": "yl11",
+    "Address": "POZNAN"
+  },
+  {
+    "OrderId": 24,
+    "Dishes": [
+      {
+        "Name": "Cheeseburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\ccfa3b86-7ccb-46a9-97da-93cdb402d8c5.jpg"
+      },
+      {
+        "Name": "smashburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Delivered",
+    "Total": 29.00,
+    "Username": "yl1",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 25,
+    "Dishes": [
+      {
+        "Name": "House Fries",
+        "Price": 6,
+        "ImagePath": "Resources\\Images\\b632ff37-3758-4bed-8736-0a7a992bc207.jpg"
+      },
+      {
+        "Name": "Animal Style Fries",
+        "Price": 10,
+        "ImagePath": "Resources\\Images\\animal.jpg"
+      },
+      {
+        "Name": "smashburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      },
+      {
+        "Name": "smashburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      },
+      {
+        "Name": "Delivery Fee",
+        "Price": 5.00,
+        "ImagePath": null
+      }
+    ],
+    "Status": "Delivered",
+    "Total": 45.00,
+    "Username": "yl",
+    "Address": "Poznan"
+  },
+  {
+    "OrderId": 26,
+    "Dishes": [
+      {
+        "Name": "Cheeseburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\ccfa3b86-7ccb-46a9-97da-93cdb402d8c5.jpg"
+      },
+      {
+        "Name": "smashburger",
+        "Price": 12,
+        "ImagePath": "Resources\\Images\\smash.jpg"
+      }
+    ],
+    "Status": "Delivered",
+    "Total": 24,
+    "Username": "yl1",
+    "Address": "Pickup"
+  }
+]

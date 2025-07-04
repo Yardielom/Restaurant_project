@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "Cheeseburger",
+    "Price": 12,
+    "ImagePath": "Resources\\Images\\d9dbbed9-8c1c-475a-98f9-588f7f52bd3e.jpg"
+  },
+  {
+    "Name": "jalapenoBurger",
+    "Price": 12,
+    "ImagePath": "Resources\\Images\\jalapeno.jpg"
+  },
+  {
+    "Name": "smashburger",
+    "Price": 12,
+    "ImagePath": "Resources\\Images\\smash.jpg"
+  },
+  {
+    "Name": "Animal Style Fries",
+    "Price": 10,
+    "ImagePath": "Resources\\Images\\animal.jpg"
+  },
+  {
+    "Name": "House Fries",
+    "Price": 6,
+    "ImagePath": "Resources\\Images\\623b17ba-ffe4-4e2e-88cf-8c9132339c23.jpg"
+  },
+  {
+    "Name": "Hot Dog (American Style)",
+    "Price": 12,
+    "ImagePath": "Resources\\Images\\hot.jpg"
+  },
+  {
+    "Name": "Hot Dog (European Style)",
+    "Price": 5,
+    "ImagePath": "Resources\\Images\\hd_morlinska.png"
+  }
+]
